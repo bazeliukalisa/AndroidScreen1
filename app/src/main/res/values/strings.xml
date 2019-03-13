@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="myApplications">My Applications</string>
+    <string name="input">Input your name</string>
+    <string name="MyApplications">My Applications</string>
+    <string name="label">Label</string>
+    <string name="help">Help text (optional)</string>
+    <string name="enter">Enter</string>
+    <string name="your">Your name is...</string>
+    <string name="name">Name</string>
+    <string name="creater">Alisa Bazeliuk</string>
+
+</resources>
